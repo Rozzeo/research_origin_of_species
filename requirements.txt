@@ -1,0 +1,1 @@
+pdfplumber pytesseract pandas pdf2image camelot-py[cv] ollama
