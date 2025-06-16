@@ -1,5 +1,4 @@
-﻿# research_ollama_helper
- # Scientific PDF Explicit Info Extractor
+# Scientific PDF Explicit Info Extractor
 
 This project is a simple Python tool for extracting explicit, structured information from scientific papers in PDF format. It is designed to work locally and privately, using a local Large Language Model (LLM) via [Ollama](https://ollama.com/).
 
